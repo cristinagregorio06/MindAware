@@ -1,0 +1,676 @@
+{
+  "recomendaciones": [
+    {
+      "tipo": "app",
+      "titulo": "Calm – Bienestar y meditación diaria",
+      "descripcion": "Mantén y potencia la consciencia emocional que ya tienes con meditaciones breves adaptadas a tu ritmo.",
+      "url": "https://www.calm.com",
+      "categoria": "autoestima",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Cómo mantener una autoestima sólida en las redes sociales",
+      "descripcion": "Estrategias para preservar tu autovaloración cuando el entorno digital lanza mensajes contradictorios.",
+      "url": "https://www.psychologytoday.com",
+      "categoria": "autoestima",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"The Art of Being Yourself\" – Caroline McHugh",
+      "descripcion": "Explora qué significa ser auténtico y cómo la identidad digital puede alejarte de esa autenticidad.",
+      "url": "https://www.ted.com/talks",
+      "categoria": "autoestima",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Pregunta conscientemente antes de publicar",
+      "descripcion": "Antes de publicar algo, pregúntate: ¿lo comparto porque me aporta a mí o porque busco la reacción de los demás?",
+      "url": null,
+      "categoria": "autoestima",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Gratitude – Diario de afirmaciones positivas",
+      "descripcion": "Lleva un diario de gratitud diario para enfocar la atención en lo positivo más allá de los \"me gusta\".",
+      "url": "https://gratefulness.me",
+      "categoria": "autoestima",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Comparación social en redes: cómo dejar de compararte",
+      "descripcion": "Artículo práctico sobre el ciclo de la comparación online y estrategias para romperlo gradualmente.",
+      "url": "https://www.psychologytoday.com",
+      "categoria": "autoestima",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"Looks aren't everything\" – Cameron Russell",
+      "descripcion": "Una modelo habla sobre la ilusión de la imagen perfecta y el impacto de la percepción social en la autoestima.",
+      "url": "https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model",
+      "categoria": "autoestima",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Semana sin mirar los \"me gusta\"",
+      "descripcion": "Publica algo y evita ver las interacciones durante las primeras 2 horas. Luego anota cómo te has sentido.",
+      "url": null,
+      "categoria": "autoestima",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Woebot – Apoyo emocional con TCC",
+      "descripcion": "Chatbot con técnicas cognitivo-conductuales para identificar y cambiar patrones de pensamiento negativos.",
+      "url": "https://woebothealth.com",
+      "categoria": "autoestima",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Cómo la comparación digital afecta la autoestima y cómo combatirla",
+      "descripcion": "Evidencia científica sobre el scrolling comparativo y estrategias concretas de recuperación emocional.",
+      "url": "https://www.verywellmind.com",
+      "categoria": "autoestima",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"The Danger of a Single Story\" – Chimamanda Ngozi Adichie",
+      "descripcion": "Reflexiona sobre cómo las narrativas únicas (incluida tu imagen en redes) moldean la percepción de ti mismo.",
+      "url": "https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story",
+      "categoria": "autoestima",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Lista de 5 cualidades que no dependen de las redes",
+      "descripcion": "Escribe 5 cualidades que valoras en ti mismo que no tengan ninguna relación con tu imagen o actividad digital.",
+      "url": null,
+      "categoria": "autoestima",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Marco Polo – Mensajes de vídeo asíncronos",
+      "descripcion": "Conecta de forma más auténtica con personas cercanas mediante vídeos cortos y personales.",
+      "url": "https://www.marcopolo.me",
+      "categoria": "soledad",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Cómo cultivar amistades profundas en la era digital",
+      "descripcion": "Guía para mantener y profundizar vínculos genuinos combinando el mundo online y el presencial.",
+      "url": "https://www.psychologytoday.com",
+      "categoria": "soledad",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"What makes a good life?\" – Robert Waldinger",
+      "descripcion": "El director del mayor estudio sobre felicidad revela que las relaciones profundas son la clave del bienestar.",
+      "url": "https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness",
+      "categoria": "soledad",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Mensaje personal en profundidad",
+      "descripcion": "Escribe hoy un mensaje largo y personal (sin emojis) a alguien con quien no hayas hablado en semanas.",
+      "url": null,
+      "categoria": "soledad",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Meetup – Grupos y eventos presenciales",
+      "descripcion": "Encuentra personas con tus mismos intereses y queda en persona en actividades de tu ciudad.",
+      "url": "https://www.meetup.com",
+      "categoria": "soledad",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "La paradoja de la conectividad: más redes, más soledad",
+      "descripcion": "Por qué sentirte rodeado de gente online puede intensificar la soledad y qué hacer para revertirlo.",
+      "url": "https://www.psychologytoday.com",
+      "categoria": "soledad",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"Connected, but alone?\" – Sherry Turkle (Soledad digital)",
+      "descripcion": "Psicóloga del MIT explora cómo la tecnología altera nuestra capacidad de conectar de verdad con los demás.",
+      "url": "https://www.ted.com/talks/sherry_turkle_connected_but_alone",
+      "categoria": "soledad",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Reto de la actividad presencial",
+      "descripcion": "Propón una actividad en persona esta semana a alguien de tu círculo digital. Un café, un paseo, lo que sea.",
+      "url": null,
+      "categoria": "soledad",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Bumble BFF – Amistades por intereses comunes",
+      "descripcion": "App diseñada para hacer nuevas amistades según valores e intereses comunes en tu entorno cercano.",
+      "url": "https://bumble.com/en/bff",
+      "categoria": "soledad",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Soledad digital: cuando estar conectado no es suficiente",
+      "descripcion": "Qué es la soledad en la era digital y estrategias terapéuticas y prácticas para superarla.",
+      "url": "https://www.verywellmind.com",
+      "categoria": "soledad",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"The lethality of loneliness\" – John Cacioppo",
+      "descripcion": "El impacto real de la soledad crónica en la salud y cómo la conexión genuina actúa como medicina.",
+      "url": "https://www.ted.com/talks",
+      "categoria": "soledad",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Sustituye un mensaje por una llamada",
+      "descripcion": "Hoy, llama (voz o vídeo) a alguien importante para ti en lugar de enviarle un mensaje de texto. Nota la diferencia.",
+      "url": null,
+      "categoria": "soledad",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Daylio – Micro-diario de bienestar",
+      "descripcion": "Registra tu estado de ánimo y actividades diarias para ser consciente de lo que realmente te hace bien.",
+      "url": "https://daylio.net",
+      "categoria": "vida_satisfactoria",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Minimalismo digital: usa la tecnología a tu servicio",
+      "descripcion": "Cómo definir un uso intencionado y limitado de las redes para que aporten valor sin dominarte.",
+      "url": "https://www.calnewport.com/books/digital-minimalism/",
+      "categoria": "vida_satisfactoria",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"How to gain control of your free time\" – Laura Vanderkam",
+      "descripcion": "Estrategias para recuperar tiempo de calidad y dedicarlo a actividades que realmente te llenen.",
+      "url": "https://www.ted.com/talks/laura_vanderkam_how_to_gain_control_of_your_free_time",
+      "categoria": "vida_satisfactoria",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Diario de actividades offline que te alegran",
+      "descripcion": "Anota 3 actividades offline que te dieron alegría esta semana. ¿Cómo puedes incorporarlas más a menudo?",
+      "url": null,
+      "categoria": "vida_satisfactoria",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Fabulous – Rutinas y hábitos saludables",
+      "descripcion": "Construye rutinas equilibradas que combinen bienestar digital y actividades enriquecedoras offline.",
+      "url": "https://www.thefabulous.co",
+      "categoria": "vida_satisfactoria",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Cómo el scroll pasivo afecta tu satisfacción vital (y qué hacer)",
+      "descripcion": "Investigaciones sobre el consumo pasivo de redes y su impacto silencioso en el bienestar general.",
+      "url": "https://www.psychologytoday.com",
+      "categoria": "vida_satisfactoria",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"Flow, the secret to happiness\" – Mihaly Csikszentmihalyi",
+      "descripcion": "El creador del concepto de flujo explica cómo encontrar actividades que te absorban y nutran de verdad.",
+      "url": "https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness",
+      "categoria": "vida_satisfactoria",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Reemplaza 30 minutos de scroll por algo tangible",
+      "descripcion": "Sustituye media hora de scroll pasivo por cocinar algo, dar un paseo o llamar a alguien. Hazlo hoy.",
+      "url": null,
+      "categoria": "vida_satisfactoria",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Headspace – Meditación guiada",
+      "descripcion": "Reconecta con el presente y con lo que realmente te importa a través de meditaciones cortas diarias.",
+      "url": "https://www.headspace.com",
+      "categoria": "vida_satisfactoria",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Scroll infinito y dopamina: por qué las redes nos dejan vacíos",
+      "descripcion": "Neurociencia del uso compulsivo de redes y cómo salir del ciclo para volver a disfrutar la vida.",
+      "url": "https://www.verywellmind.com",
+      "categoria": "vida_satisfactoria",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"The art of stillness\" – Pico Iyer",
+      "descripcion": "Reflexión sobre el valor de desconectarse y encontrar quietud para recuperar la satisfacción vital.",
+      "url": "https://www.ted.com/talks/pico_iyer_the_art_of_stillness",
+      "categoria": "vida_satisfactoria",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Una hora sin pantallas antes de dormir",
+      "descripcion": "Esta noche apaga todas las pantallas una hora antes de dormir. Dedícala a música, lectura o conversación real.",
+      "url": null,
+      "categoria": "vida_satisfactoria",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "app",
+      "titulo": "MoodKit – Herramientas de bienestar emocional",
+      "descripcion": "App con técnicas de TCC para mantener el estado de ánimo positivo y detectar patrones emocionales.",
+      "url": "https://www.thriveport.com/products/moodkit/",
+      "categoria": "depresion",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Cómo el uso consciente de la tecnología mejora el ánimo",
+      "descripcion": "Cómo las elecciones digitales cotidianas pueden potenciar (o minar) tu bienestar emocional día a día.",
+      "url": "https://www.psychologytoday.com",
+      "categoria": "depresion",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"The happy secret to better work\" – Shawn Achor",
+      "descripcion": "Cómo entrenar la mente para ver el lado positivo y que eso mejore todos los aspectos de tu vida.",
+      "url": "https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work",
+      "categoria": "depresion",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Silencia una fuente de negatividad hoy",
+      "descripcion": "Identifica una cuenta o tipo de contenido que te genere tristeza o comparación, y silénciala ahora mismo.",
+      "url": null,
+      "categoria": "depresion",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Sanvello – Gestión del estrés y el ánimo",
+      "descripcion": "App respaldada clínicamente con ejercicios para gestionar el estrés y mejorar el estado emocional.",
+      "url": "https://www.sanvello.com",
+      "categoria": "depresion",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Uso intensivo de redes y desánimo: qué dice la ciencia",
+      "descripcion": "Evidencia científica sobre el vínculo entre las horas de pantalla y la fatiga emocional, con recomendaciones.",
+      "url": "https://www.nimh.nih.gov",
+      "categoria": "depresion",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"The skill of self confidence\" – Dr. Ivan Joseph",
+      "descripcion": "Cómo construir fortaleza emocional y autoconfianza que no dependa de la validación externa.",
+      "url": "https://www.ted.com/talks",
+      "categoria": "depresion",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Registra qué emoción te lleva a abrir las redes",
+      "descripcion": "Durante un día entero, antes de abrir cualquier red, escribe en papel qué emoción sientes en ese momento.",
+      "url": null,
+      "categoria": "depresion",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Woebot – Apoyo emocional 24/7 con TCC",
+      "descripcion": "Chatbot clínico para acompañarte en los momentos difíciles con técnicas de Terapia Cognitivo-Conductual.",
+      "url": "https://woebothealth.com",
+      "categoria": "depresion",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Depresión digital: cómo romper el ciclo del uso compulsivo",
+      "descripcion": "Estrategias basadas en evidencia para deshacer el vínculo entre el bajo ánimo y el uso de redes sociales.",
+      "url": "https://www.verywellmind.com",
+      "categoria": "depresion",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"Depression, the secret we share\" – Andrew Solomon",
+      "descripcion": "Reflexión profunda y empática sobre la depresión: su naturaleza, sus causas y cómo encontrar salida.",
+      "url": "https://www.ted.com/talks/andrew_solomon_depression_the_secret_we_share",
+      "categoria": "depresion",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Sin redes en los primeros 30 minutos del día",
+      "descripcion": "Mañana, en vez de mirar el móvil al despertar, haz algo que te active: estiramientos, música o desayunar con calma.",
+      "url": null,
+      "categoria": "depresion",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Forest – Focus y tiempo sin móvil",
+      "descripcion": "Planta árboles virtuales mientras no usas el móvil. Gamifica el tiempo enfocado de forma divertida.",
+      "url": "https://www.forestapp.cc",
+      "categoria": "ansiedad",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Mindfulness digital: calma en un mundo de notificaciones",
+      "descripcion": "Cómo mantener la serenidad frente a las interrupciones constantes con técnicas de atención plena.",
+      "url": "https://www.mindful.org",
+      "categoria": "ansiedad",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"All it takes is 10 mindful minutes\" – Andy Puddicombe",
+      "descripcion": "Solo 10 minutos de consciencia plena al día pueden transformar tu relación con el estrés y las distracciones.",
+      "url": "https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes",
+      "categoria": "ansiedad",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Una hora en modo \"No Molestar\"",
+      "descripcion": "Activa el modo \"No Molestar\" en tu móvil durante una hora ahora mismo. Observa si el mundo sigue igual.",
+      "url": null,
+      "categoria": "ansiedad",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Digital Wellbeing / Tiempo de Uso – Límites de pantalla",
+      "descripcion": "Herramientas nativas de Android e iOS para monitorizar y limitar el tiempo en apps de mensajería.",
+      "url": null,
+      "categoria": "ansiedad",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "FOMO y ansiedad digital: del miedo al JOMO",
+      "descripcion": "Del miedo a perderse algo (FOMO) a la alegría de perderse algo (JOMO): un cambio de perspectiva liberador.",
+      "url": "https://www.verywellmind.com/how-to-cope-with-fomo-4174664",
+      "categoria": "ansiedad",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"How to stop checking your phone\" – David Greenfield",
+      "descripcion": "Psicólogo experto en adicción tecnológica explica los mecanismos del uso compulsivo y cómo romperlos.",
+      "url": "https://www.ted.com/talks",
+      "categoria": "ansiedad",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Desactiva notificaciones de redes durante 24 horas",
+      "descripcion": "Desactiva las notificaciones de todas las apps sociales durante 24 h. Revisa los mensajes solo 2 veces al día.",
+      "url": null,
+      "categoria": "ansiedad",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Calm – Meditación y técnicas anti-ansiedad",
+      "descripcion": "Meditaciones guiadas y ejercicios de respiración diseñados para reducir la ansiedad de forma progresiva.",
+      "url": "https://www.calm.com",
+      "categoria": "ansiedad",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Técnica Pomodoro aplicada a mensajes y emails",
+      "descripcion": "Cómo usar bloques de tiempo para revisar mensajes, reduciendo la presión de respuesta constante.",
+      "url": "https://www.psychologytoday.com",
+      "categoria": "ansiedad",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"Connected, but alone?\" – Sherry Turkle (Ansiedad digital)",
+      "descripcion": "La presión de estar siempre disponible y cómo recuperar la capacidad de estar solo sin angustia.",
+      "url": "https://www.ted.com/talks/sherry_turkle_connected_but_alone",
+      "categoria": "ansiedad",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Regla de dos ventanas de revisión al día",
+      "descripcion": "Revisa mensajes solo a las 9:00 y a las 19:00 durante 3 días seguidos. Anota cómo evoluciona tu estrés.",
+      "url": null,
+      "categoria": "ansiedad",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Pocket – Lee cuando quieras, sin urgencia",
+      "descripcion": "Guarda artículos de calidad para leerlos en tu momento elegido, eliminando la presión de estar al día.",
+      "url": "https://getpocket.com",
+      "categoria": "panico_informativo",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Cómo consumir noticias de forma saludable",
+      "descripcion": "Guía para informarse con criterio evitando la saturación y el contagio emocional negativo.",
+      "url": "https://www.psychologytoday.com",
+      "categoria": "panico_informativo",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"How to read the news like a scientist\"",
+      "descripcion": "Desarrolla un consumo crítico e informado de los medios para que la información no te sobrepase.",
+      "url": "https://www.ted.com/talks",
+      "categoria": "panico_informativo",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Auditoría de tus fuentes de información",
+      "descripcion": "Anota las 3 fuentes que más consultas. Pregúntate: ¿me aportan valor real o solo generan inquietud?",
+      "url": null,
+      "categoria": "panico_informativo",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Flipboard – Noticias filtradas por interés",
+      "descripcion": "Agrega noticias solo sobre los temas que te importan, reduciendo el ruido informativo innecesario.",
+      "url": "https://flipboard.com",
+      "categoria": "panico_informativo",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Doomscrolling: por qué consumimos noticias negativas y cómo parar",
+      "descripcion": "La psicología detrás del scroll de malas noticias y técnicas concretas para interrumpir el hábito.",
+      "url": "https://www.verywellmind.com",
+      "categoria": "panico_informativo",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"How to tell fake news from real news\" – Christa Laser",
+      "descripcion": "Habilidades de pensamiento crítico para navegar el ecosistema informativo con calma y criterio.",
+      "url": "https://www.ted.com/talks",
+      "categoria": "panico_informativo",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "El \"rincón de noticias\": 15 minutos al día",
+      "descripcion": "Reserva 15 min por la mañana para informarte. Luego cierra las apps de noticias y no las vuelvas a abrir.",
+      "url": null,
+      "categoria": "panico_informativo",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Petit BamBou – Meditación para desintoxicarse",
+      "descripcion": "Meditaciones guiadas en español para crear momentos de calma cuando la información te sobrepase.",
+      "url": "https://www.petitbambou.com",
+      "categoria": "panico_informativo",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Infoxicación: cómo la sobreinformación daña tu salud mental",
+      "descripcion": "Qué es la infoxicación, cómo identificarla y un plan paso a paso para reducirla progresivamente.",
+      "url": "https://www.psychologytoday.com",
+      "categoria": "panico_informativo",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"Surviving the news\" – Matthew Gentzkow",
+      "descripcion": "Cómo mantenerse informado sin perder la salud mental: el equilibrio entre conciencia y bienestar.",
+      "url": "https://www.ted.com/talks",
+      "categoria": "panico_informativo",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Tres días sin apps de noticias en pantalla de inicio",
+      "descripcion": "Elimina las apps de noticias de tu pantalla de inicio 3 días. Solo accede si buscas algo concreto.",
+      "url": null,
+      "categoria": "panico_informativo",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Vision Board – Visualización de metas",
+      "descripcion": "Crea tableros visuales con tus objetivos y sueños para seguir alimentando esa visión positiva del futuro.",
+      "url": null,
+      "categoria": "confianza_futuro",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Cómo construir optimismo realista en tiempos de incertidumbre",
+      "descripcion": "Estrategias basadas en psicología positiva para mantener una visión esperanzadora del futuro.",
+      "url": "https://www.psychologytoday.com",
+      "categoria": "confianza_futuro",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"The optimism bias\" – Tali Sharot",
+      "descripcion": "La neurociencia del optimismo: por qué estamos parcialmente \"programados\" para creer que el futuro será mejor.",
+      "url": "https://www.ted.com/talks/tali_sharot_the_optimism_bias",
+      "categoria": "confianza_futuro",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Carta a tu yo del futuro",
+      "descripcion": "Escribe una carta a tu yo de dentro de un año: ¿qué habrás conseguido? ¿cómo te sentirás? Guárdala.",
+      "url": null,
+      "categoria": "confianza_futuro",
+      "nivel": "bajo"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Habitica – Tus metas como un juego de rol",
+      "descripcion": "Convierte tus objetivos en misiones y gana puntos de experiencia al cumplirlos. La motivación en forma de juego.",
+      "url": "https://habitica.com",
+      "categoria": "confianza_futuro",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Cómo la comparación social erosiona la confianza y cómo recuperarla",
+      "descripcion": "Por qué ver el éxito de otros en redes deteriora nuestra visión del futuro y cómo reencuadrarlo.",
+      "url": "https://www.verywellmind.com",
+      "categoria": "confianza_futuro",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"Define your fears, not your goals\" – Tim Ferriss",
+      "descripcion": "Cómo el ejercicio estoico del miedo puede liberarte de la parálisis y devolverte la confianza en el futuro.",
+      "url": "https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals",
+      "categoria": "confianza_futuro",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Una semana siguiendo solo lo que inspira",
+      "descripcion": "Durante 7 días, silencia cuentas que te hagan sentir \"rezagado/a\". Solo sigue lo que genuinamente te motive.",
+      "url": null,
+      "categoria": "confianza_futuro",
+      "nivel": "medio"
+    },
+    {
+      "tipo": "app",
+      "titulo": "Finch – Autocuidado con tu pájaro virtual",
+      "descripcion": "App de autocuidado donde un pájaro virtual crece con tus pequeños logros diarios. Reconecta con el progreso.",
+      "url": "https://finchcare.com",
+      "categoria": "confianza_futuro",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "articulo",
+      "titulo": "Ansiedad por el futuro en la era digital: cómo recuperar la esperanza",
+      "descripcion": "Cómo la sobreexposición a contenidos negativos alimenta el pesimismo y estrategias para revertirlo.",
+      "url": "https://www.psychologytoday.com",
+      "categoria": "confianza_futuro",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "video",
+      "titulo": "TED Talk: \"The surprising science of happiness\" – Dan Gilbert",
+      "descripcion": "Somos malos prediciendo lo que nos hará felices: entender eso puede liberarnos del miedo al futuro.",
+      "url": "https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness",
+      "categoria": "confianza_futuro",
+      "nivel": "alto"
+    },
+    {
+      "tipo": "ejercicio",
+      "titulo": "Diario de 3 cosas buenas durante 7 días",
+      "descripcion": "Cada noche, anota 3 cosas buenas que hayan pasado ese día. La ciencia muestra que reconfigura tu perspectiva.",
+      "url": null,
+      "categoria": "confianza_futuro",
+      "nivel": "alto"
+    }
+  ]
+}
